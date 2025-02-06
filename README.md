@@ -1,2 +1,2 @@
 # Enitity-Framework-Metotlar-Linq-Sorugular-
-C# Eğitim Kampı kapsamında yapmış olduğum uygulamalar.
+C# eğitim kapsamında framework metotlarını kullandım ve Entity Framework ile veri tabanı işlemleri gerçekleştirdim. Lokasyon ve rehber bilgilerinden oluşan veritabanı üzerinden LINQ sorguları ile toplam lokasyon, kapasite, rehber sayısı, ortalama fiyat ve kapasite gibi verileri çektim. Belirli şehirler için filtreleme yaparak en yüksek kapasiteli ve fiyatlı lokasyonları tespit ettim.
